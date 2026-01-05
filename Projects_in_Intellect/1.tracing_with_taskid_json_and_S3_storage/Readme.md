@@ -131,8 +131,8 @@ Let me break down the complete flow with inputs, processing steps, and outputs.
 │  INPUT:                                                                     │
 │  ┌─────────────────────────────────────────────────────────────────────┐   │
 │  │ AuthRequest {                                                        │   │
-│  │   username: "vamshi.pallapu@intellectdesign.com",                    │   │
-│  │   password: "Elephant@_619",                                         │   │
+│  │   username: "mail.com",                    │   │
+│  │   password: "xxx",                                         │   │
 │  │   tenant: "idigi"                                                    │   │
 │  │ }                                                                    │   │
 │  └─────────────────────────────────────────────────────────────────────┘   │
