@@ -44,7 +44,7 @@
 
 | # | Book | Level | Status | GitHub / Resource | Notes |
 |:--:|---|:--:|:--:|:--:|---|
-| 1 | **Mastering Object-Oriented Programming with Python** | ![Intermediate](https://img.shields.io/badge/Intermediate-F39C12?style=flat-square) | ![Reading](https://img.shields.io/badge/Reading-3498DB?style=flat-square) | [![Open Book](https://img.shields.io/badge/google_drive-white?style=for-the-badge&logo=google%20drive&logoColor=white&color=%23EA4336)](https://drive.google.com/drive/folders/1sPg0FD7mITbluql4PaHZrwj-2vS0XG6E) | Classes, inheritance, polymorphism, design patterns
+| 1 | **Mastering Object-Oriented Programming with Python** | ![Intermediate](https://img.shields.io/badge/Intermediate-F39C12?style=flat-square) | ![Reading](https://img.shields.io/badge/Reading-3498DB?style=flat-square) | [![Open Book](https://img.shields.io/badge/google_drive-white?style=for-the-badge&logo=google%20drive&logoColor=white&color=%23EA4336)](https://drive.google.com/file/d/1WV7qz5_s8EE9-D07zFoUtb6rppFsCyj9/view?usp=drive_link) | Classes, inheritance, polymorphism, design patterns
 | 1 | **Mastering Object-Oriented Programming with Python** | ![Intermediate](https://img.shields.io/badge/Intermediate-F39C12?style=flat-square) | ![Reading](https://img.shields.io/badge/Reading-3498DB?style=flat-square) | [![Open Book](https://img.shields.io/badge/Open%20Book-GitHub-181717?style=for-the-badge&logo=github)](PASTE_BOOK_GITHUB_LINK_HERE) | Classes, inheritance, polymorphism, design patterns |
 
 ---
