@@ -25,12 +25,34 @@ docker start <container-name>
 
 **Remove the COntainer:**
 ```
-docker rm <container-name>
+docker rm customer-churn-container
 ```
 
 **Remove the Image:**
 ```
-docker rmi <container-name>
+docker rmi customer-churn-api:v1
 ```
 
+**TO build the docker container:**
+```
+docker build -t customer-churn-api:v1 .
+```
+
+**To check all the docker images:**
+```
+docker images
+```
+
+**To check no of containers:**
+
+```
+docker ps
+```
+
+
+
+
+
 --------
+
+
